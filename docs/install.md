@@ -1,37 +1,44 @@
 # Installation
 
-The public release of FeralHeart Unleashed is obtained exclusively through the official [website downloads page.](https://feralheart-unleashed.com/download.php) FeralHeart Unleashed currently only has a native Windows version, however you are able to play on Mac and Linux with the linked tutorials in their respective sections. <!-- There are plans for a native Mac version of the game in the future. -->
+The public release of FeralHeart Unleashed is obtained exclusively through the official [website downloads page](https://feralheart-unleashed.com/download.php). FeralHeart Unleashed currently only has a native Windows version, however you are able to play on Mac and Linux with the linked tutorials in their respective sections. <!-- There are plans for a native Mac version of the game in the future. -->
 
 # Windows Installation
 
-## Installer Installation
+## Itch.io App Installation
 
-The installer download is the recommended method for installing FeralHeart Unleashed.
+The Itch.io App is the recommended method for installing FeralHeart Unleashed.
 
-- Download the [Installer Download](https://feralheart-unleashed.com/download.php)
-- Run the FHUSetup.exe
-- Follow the setup steps in the installer
+- [Register](https://itch.io/register) on Itch.io if you haven't already.
+- Download the [Itch.io App](https://itch.io/app)
+- Run itch-setup.exe
 
-> :warning: Do not install FeralHeart Unleashed to Program Files or other protected Windows folders. FeralHeart Unleashed does not have the permission to create the necessary configuration files there.
+> :warning: Do not install FeralHeart Unleashed to Program Files or other protected Windows folders. FeralHeart Unleashed does not have the permission to create the necessary configuration files there. The default itch location in AppData is fine, or select/make a folder like C:\Games
 
-- Run the two files in the Redistributables folder
-- Launch the game using FeralHeart Unleashed.exe
-- Select Direct3D9 from the Ogre dropdown menu
+- Login with your Itch account.
+- Select the Search Bar on the left and search: `FeralHeart Unleashed`
+- Click the `Install` button on the bottom right.
+- Change your install location if you need to, remember no Program Files!
+- Click Install once more.
+- itch will now install the game. If you never had VCRedist or DirectX installed before, you may be prompted to accept their installation. Please install them.
+- Click `Launch` where the install button used to be.
+- Select Direct3D9 from the Ogre dropdown menu.
 - Press OK and from there you can begin your experience!
+
+Should you have any issues with your install or wish to remove the game, simply click the Gear icon next to Launch, select Manage, and choose the needed option.
 
 ## Archive Installation
 
-The archive download may require the use of external archive programs, such as [7-Zip](https://www.7-zip.org/ ).
+There is also a Zip Archive option, should you wish to avoid the Itch App. Please note this option does not have any form of installer, launcher or auto-updater.
 
-- Right click the FHUZip.zip
-- Click Extract All
-- Extract the game to an empty Folder
+- From the [website downloads page](https://feralheart-unleashed.com/download.php), select the Zip Archive button. This will lead to the Itch FHU Homepage. 
+- On this page, scroll down and select the `Download` button.
+- Extract the game to an empty folder.
 
 > :warning: Do not extract FeralHeart Unleashed to Program Files or other protected Windows folders. FeralHeart Unleashed does not have the permission to create the necessary configuration files there.
 
-- Run the two files in the Redistributables folder
-- Launch the game using FeralHeart Unleashed.exe
-- Select Direct3D9 from the Ogre dropdown menu
+- Run the two files in the `redistributables` folder.
+- Launch the game using `fhugame.exe`.
+- Select Direct3D9 from the Ogre dropdown menu.
 - Press OK and from there you can begin your experience!
 
 # Playing on Mac
